@@ -1,15 +1,18 @@
 ---
-title: "Hackathon 04/04/2019"
+title: "Hackathon Rules"
 date: 2019-04-03T14:05:04-03:00
-draft: true
+draft: false
 author: "Lucas Marioni"
 ---
 
-# <span style="color:#FE2488"> Hackathon Axon 04/04/2019 </span>
+# <span style="color:#FE2488"> Hackathon Rules </span>
 
 Hola! Bienvenidos a nuestro primer Hackathon en Axon training! 
 
-En Axon tenemos un problema que queremos resolver, pero es secreto todavía!
+En Axon tenemos un problema que queremos resolver, pero es secreto hasta <span style="color:#FE2488">mañana a las 15:45!</span>
+
+## <span style="color:#FE2488">Cuando? </span>
+ - Día jueves 04 de Abril..
 
 ## <span style="color:#FE2488">Reglas Generales </span>
 
@@ -25,7 +28,7 @@ En Axon tenemos un problema que queremos resolver, pero es secreto todavía!
   - **Mínimo producto viable**: Con los dibujos no alcanza, entonces tenemos que mostrar algo básico que muestre su funcionamiento (en web, con datos reales). 
 
 - Esta solución pasará a estar en producción por lo tanto el diseño tiene que:
-  - Ser escalable.
+  - Ser escalable (Usar nuestra API).
   - Ser responsive.
   - Ser fácil de usar.
   - Ser pensada para lo que el usuario quiere y no lo que nosotros pensamos que quiere.
