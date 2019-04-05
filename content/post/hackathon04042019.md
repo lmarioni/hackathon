@@ -1,5 +1,5 @@
 ---
-title: "Hackathon Rules"
+title: "Hackathon 04/04/2019"
 date: 2019-04-03T14:05:04-03:00
 draft: false
 author: "Lucas Marioni"
